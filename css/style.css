@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+/* Font-style */
 h3 {
     color: gray;
     font-weight: normal;
@@ -25,6 +26,7 @@ p {
     color: #1E90FF;
 }
 
+/* Header */
 header {
     background-color: #1E90FF;
     background-image: url("../img/pattern.png");
@@ -44,6 +46,8 @@ header {
     margin-left: 5px;
 }
 
+/* start-main-title */
+
 .container {
     padding: 10px;
 }
@@ -54,7 +58,7 @@ header {
     color: gray;
 }
 
-
+/* main-middle-section */
 
 .highlighted {
     background-color: yellow;
@@ -66,7 +70,7 @@ header {
     margin: 1em;
 }
 
-
+/* table-style */
 
 .table-style {
     width: 100%;
@@ -91,6 +95,7 @@ header {
     background-color: lightskyblue;
 }
 
+/* main-final-images */
 
 .img-box {
     position: relative;
