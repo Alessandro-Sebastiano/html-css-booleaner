@@ -3,3 +3,22 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header {
+    background-color: #1E90FF;
+    background-image: url("../img/pattern.png");
+    background-position-y: 3%;
+    background-size: 30%;
+}
+
+
+
+#logo {
+    width: 200px;
+}
+
+
+#logo-image {
+    margin-top: 35px;
+    margin-left: 5px;
+}
