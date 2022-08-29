@@ -4,6 +4,19 @@
     box-sizing: border-box;
 }
 
+h3 {
+    color: gray;
+    font-weight: normal;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.text-color {
+    color: #1E90FF;
+}
+
 header {
     background-color: #1E90FF;
     background-image: url("../img/pattern.png");
@@ -21,4 +34,14 @@ header {
 #logo-image {
     margin-top: 35px;
     margin-left: 5px;
+}
+
+.container {
+    padding: 10px;
+}
+
+
+#date {
+    font-size: 14px;
+    color: gray;
 }
