@@ -13,6 +13,10 @@ h1 {
     font-weight: bold;
 }
 
+p {
+    font-weight: 600;
+}
+
 .text-color {
     color: #1E90FF;
 }
@@ -44,4 +48,16 @@ header {
 #date {
     font-size: 14px;
     color: gray;
+}
+
+
+
+.highlighted {
+    background-color: yellow;
+}
+
+
+#list {
+    margin-top: 25px;
+    margin: 1em;
 }
